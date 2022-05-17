@@ -62,6 +62,7 @@ class _CalculatorState extends State<Calculator> {
                 )
               ],
             ),
+            //Calculator button
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
